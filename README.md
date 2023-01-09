@@ -16,14 +16,14 @@
 
 ---
 
-* [**Proc. ACM CIKM2022, October 17-21, 2022**] **TrajFormer: Efficient Trajectory Classification with Transformers**
+* [**CIKM 2022**] **TrajFormer: Efficient Trajectory Classification with Transformers**
   >*Yuxuan Liang, Kun Ouyang, Yiwei Wang, Xu Liu, Hongyang Chen, Junbo Zhang, Yu Zheng, and Roger Zimmermann* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3511808.3557481)
 
 <img src="https://github.com/zhejiangzhuque/papers/blob/main/resources/3.jpg" width="70%"/>
 
 ---
 
-* [**Proc. ACM SIGMOD Conference 2022(Demo Track), pp. 2353-2356**] **Sevi: Speech-to-Visualization through Neural Machine Translation**
+* [**SIGMOD 2022**] **Sevi: Speech-to-Visualization through Neural Machine Translation**
   >*Jiawei Tang, Yuyu Luo, Mourad Ouzzani, Guoliang Li, Hongyang Chen* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3514221.3520150)
 
 <img src="https://github.com/zhejiangzhuque/papers/blob/main/resources/4.jpg" width="70%"/>
@@ -37,17 +37,17 @@
 
 ---
 
-* [**AAAI 2023, February 7-14, 2023**] **SSPAttack: A Simple and Sweet Paradigm for Black-box Hard-label Textual Adversarial Attack**
+* [**AAAI 2023**] **SSPAttack: A Simple and Sweet Paradigm for Black-box Hard-label Textual Adversarial Attack**
   >*Han Liu, Zhi Xu, Xiaotong Zhang, Xiaoming Xu, Feng Zhang, Fenglong Ma, Hongyang Chen, Hong Yu, Xianchao Zhang* 
 
 
 ---
 
-* [**AAAI 2023, February 7-14, 2023**] **Boosting Few-shot Text Classification via Distribution Estimation**
+* [**AAAI 2023**] **Boosting Few-shot Text Classification via Distribution Estimation**
   >*Han Liu, Feng Zhang, Xiaotong Zhang, Siyang Zhao, Fenglong Ma, Xiao-Ming Wu, Hongyang Chen, Hong Yu, Xianchao Zhang* 
 
 
 ---
 
-* [**ACM SIGMOD 2023, Washington, USA, on June 18 - June 23, 2023**] **Efficient Resistance Distance Computation: the Power of Landmark-based Approaches**
+* [**SIGMOD 2023**] **Efficient Resistance Distance Computation: the Power of Landmark-based Approaches**
   >*Meihao Liao, Ronghua Li, Qiangqiang Dai, Hongyang Chen, Hongchao Qin, Guoren Wang*
