@@ -40,14 +40,12 @@
 * [**AAAI 2023, February 7-14, 2023**] **SSPAttack: A Simple and Sweet Paradigm for Black-box Hard-label Textual Adversarial Attack**
   >*Han Liu, Zhi Xu, Xiaotong Zhang, Xiaoming Xu, Feng Zhang, Fenglong Ma, Hongyang Chen, Hong Yu, Xianchao Zhang* 
 
-<img src="https://github.com/zhejiangzhuque/papers/blob/main/resources/5.jpg" width="70%"/>
 
 ---
 
 * [**AAAI 2023, February 7-14, 2023**] **Boosting Few-shot Text Classification via Distribution Estimation**
   >*Han Liu, Feng Zhang, Xiaotong Zhang, Siyang Zhao, Fenglong Ma, Xiao-Ming Wu, Hongyang Chen, Hong Yu, Xianchao Zhang* 
 
-<img src="https://github.com/zhejiangzhuque/papers/blob/main/resources/6.jpg" width="70%"/>
 
 ---
 
