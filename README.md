@@ -16,10 +16,10 @@
 
 ---
 
-<img src="https://github.com/zhejiangzhuque/papers/blob/main/resources/3.jpg" width="70%"/>
-
 * [**Proc. ACM CIKM2022, October 17-21, 2022**] **TrajFormer: Efficient Trajectory Classification with Transformers**
   >*Yuxuan Liang, Kun Ouyang, Yiwei Wang, Xu Liu, Hongyang Chen, Junbo Zhang, Yu Zheng, and Roger Zimmermann* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3511808.3557481)
+
+<img src="https://github.com/zhejiangzhuque/papers/blob/main/resources/3.jpg" width="70%"/>
 
 ---
 
