@@ -3,8 +3,9 @@
 
 <img src="https://github.com/zhejiangzhuque/papers/blob/main/resources/1.png" width="70%"/>
 
-* [**Briefings in Bioinformatics, 2022**] **Deep generative modeling and clustering of single cell Hi-C data**
   >*Qiao Liu, Wanwen Zeng, Wei Zhang, Sicheng Wang, Hongyang Chen, Rui Jiang, Mu Zhou, Shaoting Zhang* [[Paper]](https://www.biorxiv.org/content/10.1101/2022.07.19.500573v1.abstract)
+
+* [**Briefings in Bioinformatics, 2022**] **Deep generative modeling and clustering of single cell Hi-C data**
 
 ---
 
