@@ -23,31 +23,31 @@
 
 ---
 
-<img src="https://github.com/zhejiangzhuque/papers/blob/main/resources/4.jpg" width="70%"/>
-
 * [**Proc. ACM SIGMOD Conference 2022(Demo Track), pp. 2353-2356**] **Sevi: Speech-to-Visualization through Neural Machine Translation**
   >*Jiawei Tang, Yuyu Luo, Mourad Ouzzani, Guoliang Li, Hongyang Chen* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3514221.3520150)
+
+<img src="https://github.com/zhejiangzhuque/papers/blob/main/resources/4.jpg" width="70%"/>
   
 ---
-
-<img src="https://github.com/zhejiangzhuque/papers/blob/main/resources/8.jpg" width="70%"/>
 
 * [**Scientific reports, 2022**] **Deep Graph Level Anomaly Detection with Contrastive Learning**
   >*Xuexiong Luo, Jia Wu, Jian Yang, Shan Xue, Hao Peng, Chuan Zhou, Hongyang Chen, Zhao Li, and Quan Z. Sheng* [[Paper]](https://www.nature.com/articles/s41598-022-22086-3)
 
----
+<img src="https://github.com/zhejiangzhuque/papers/blob/main/resources/8.jpg" width="70%"/>
 
-<img src="https://github.com/zhejiangzhuque/papers/blob/main/resources/5.jpg" width="70%"/>
+---
 
 * [**AAAI 2023, February 7-14, 2023**] **SSPAttack: A Simple and Sweet Paradigm for Black-box Hard-label Textual Adversarial Attack**
   >*Han Liu, Zhi Xu, Xiaotong Zhang, Xiaoming Xu, Feng Zhang, Fenglong Ma, Hongyang Chen, Hong Yu, Xianchao Zhang* 
 
----
+<img src="https://github.com/zhejiangzhuque/papers/blob/main/resources/5.jpg" width="70%"/>
 
-<img src="https://github.com/zhejiangzhuque/papers/blob/main/resources/6.jpg" width="70%"/>
+---
 
 * [**AAAI 2023, February 7-14, 2023**] **Boosting Few-shot Text Classification via Distribution Estimation**
   >*Han Liu, Feng Zhang, Xiaotong Zhang, Siyang Zhao, Fenglong Ma, Xiao-Ming Wu, Hongyang Chen, Hong Yu, Xianchao Zhang* 
+
+<img src="https://github.com/zhejiangzhuque/papers/blob/main/resources/6.jpg" width="70%"/>
 
 ---
 
