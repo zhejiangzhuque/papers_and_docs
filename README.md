@@ -1,4 +1,20 @@
 
+---
+
+* 【PDF】<b>ChatGPT是怎样炼成的</b>
+* PART 01 -人工智能的起源 /  PART 02 -ChatGPT是什么？ / PART 03 -神经网络概况
+* PART 04 -潜心发展的GPT系列 / PART 05 -一鸣惊人的ChatGPT / PART 06 -未来趋势：多模态
+
+* [Download full documentation【89 pages】](https://github.com/zhejiangzhuque/papers-and-docs/raw/main/resources/ChatGPT%E6%98%AF%E6%80%8E%E6%A0%B7%E7%82%BC%E6%88%90%E7%9A%84.pdf)
+
+<img src="https://github.com/zhejiangzhuque/papers/blob/main/resources/page1.jpg" width="70%"/>
+<img src="https://github.com/zhejiangzhuque/papers/blob/main/resources/page2.jpg" width="70%"/>
+<img src="https://github.com/zhejiangzhuque/papers/blob/main/resources/page3.jpg" width="70%"/>
+<img src="https://github.com/zhejiangzhuque/papers/blob/main/resources/page4.jpg" width="70%"/>
+<img src="https://github.com/zhejiangzhuque/papers/blob/main/resources/page5.jpg" width="70%"/>
+<img src="https://github.com/zhejiangzhuque/papers/blob/main/resources/page6.jpg" width="70%"/>
+
+* [Download full documentation【89 pages】](https://github.com/zhejiangzhuque/papers-and-docs/raw/main/resources/ChatGPT%E6%98%AF%E6%80%8E%E6%A0%B7%E7%82%BC%E6%88%90%E7%9A%84.pdf)
 
 ---
 
