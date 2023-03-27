@@ -7,12 +7,12 @@
 
 * [Download full documentation【89 pages】](https://github.com/zhejiangzhuque/papers-and-docs/raw/main/resources/ChatGPT%E6%98%AF%E6%80%8E%E6%A0%B7%E7%82%BC%E6%88%90%E7%9A%84.pdf)
 
-<img src="https://github.com/zhejiangzhuque/papers/blob/main/resources/page1.jpg" width="70%"/>
-<img src="https://github.com/zhejiangzhuque/papers/blob/main/resources/page2.jpg" width="70%"/>
-<img src="https://github.com/zhejiangzhuque/papers/blob/main/resources/page3.jpg" width="70%"/>
-<img src="https://github.com/zhejiangzhuque/papers/blob/main/resources/page4.jpg" width="70%"/>
-<img src="https://github.com/zhejiangzhuque/papers/blob/main/resources/page5.jpg" width="70%"/>
-<img src="https://github.com/zhejiangzhuque/papers/blob/main/resources/page6.jpg" width="70%"/>
+<img src="https://github.com/zhejiangzhuque/papers/blob/main/resources/page1.jpg" width="90%"/>
+<img src="https://github.com/zhejiangzhuque/papers/blob/main/resources/page2.jpg" width="90%"/>
+<img src="https://github.com/zhejiangzhuque/papers/blob/main/resources/page3.jpg" width="90%"/>
+<img src="https://github.com/zhejiangzhuque/papers/blob/main/resources/page4.jpg" width="90%"/>
+<img src="https://github.com/zhejiangzhuque/papers/blob/main/resources/page5.jpg" width="90%"/>
+<img src="https://github.com/zhejiangzhuque/papers/blob/main/resources/page6.jpg" width="90%"/>
 
 * [Download full documentation【89 pages】](https://github.com/zhejiangzhuque/papers-and-docs/raw/main/resources/ChatGPT%E6%98%AF%E6%80%8E%E6%A0%B7%E7%82%BC%E6%88%90%E7%9A%84.pdf)
 
@@ -21,14 +21,14 @@
 * [**CIKM 2022**] **TrajFormer: Efficient Trajectory Classification with Transformers**
   >*Yuxuan Liang, Kun Ouyang, Yiwei Wang, Xu Liu, Hongyang Chen, Junbo Zhang, Yu Zheng, and Roger Zimmermann* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3511808.3557481)
 
-<img src="https://github.com/zhejiangzhuque/papers/blob/main/resources/3.jpg" width="70%"/>
+<img src="https://github.com/zhejiangzhuque/papers/blob/main/resources/3.jpg" width="90%"/>
 
 ---
 
 * [**SIGMOD 2022**] **Sevi: Speech-to-Visualization through Neural Machine Translation**
   >*Jiawei Tang, Yuyu Luo, Mourad Ouzzani, Guoliang Li, Hongyang Chen* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3514221.3520150)
 
-<img src="https://github.com/zhejiangzhuque/papers/blob/main/resources/4.jpg" width="70%"/>
+<img src="https://github.com/zhejiangzhuque/papers/blob/main/resources/4.jpg" width="90%"/>
   
 ---
 
@@ -36,20 +36,20 @@
 
   >*Qiao Liu, Wanwen Zeng, Wei Zhang, Sicheng Wang, Hongyang Chen, Rui Jiang, Mu Zhou, Shaoting Zhang* [[Paper]](https://www.biorxiv.org/content/10.1101/2022.07.19.500573v1.abstract)
 
-<img src="https://github.com/zhejiangzhuque/papers/blob/main/resources/1.png" width="70%"/>
+<img src="https://github.com/zhejiangzhuque/papers/blob/main/resources/1.png" width="90%"/>
 
 ---
 
 * [**IEEE Transactions on Knowledge and Data Engineering, 2022**] **Mixed-Order Relation-Aware Recurrent Neural Networks for Spatio-Temporal Forecasting**
   >*Yuxuan Liang, Kun Ouyang, Yiwei Wang, Zheyi Pan, Yifang Yin, Hongyang Chen, Junbo Zhang, Yu Zheng, David S. Rosenblum, Roger Zimmermann* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9956738)
 
-<img src="https://github.com/zhejiangzhuque/papers/blob/main/resources/2.jpg" width="70%"/>
+<img src="https://github.com/zhejiangzhuque/papers/blob/main/resources/2.jpg" width="90%"/>
 ---
 
 * [**Scientific reports, 2022**] **Deep Graph Level Anomaly Detection with Contrastive Learning**
   >*Xuexiong Luo, Jia Wu, Jian Yang, Shan Xue, Hao Peng, Chuan Zhou, Hongyang Chen, Zhao Li, and Quan Z. Sheng* [[Paper]](https://www.nature.com/articles/s41598-022-22086-3)
 
-<img src="https://github.com/zhejiangzhuque/papers/blob/main/resources/8.jpg" width="70%"/>
+<img src="https://github.com/zhejiangzhuque/papers/blob/main/resources/8.jpg" width="90%"/>
 
 ---
 
